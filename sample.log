@@ -1,0 +1,9 @@
+INFO User Login Successful
+INFO File Uploaded
+ERROR 404 Page Not Found
+WARNING Disk Usage High
+ERROR 500 Internal Server Error
+CRITICAL Database Connection Lost
+ERROR 404 Page Not Found
+INFO Logout Successful
+CRITICAL Disk Full
